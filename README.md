@@ -207,6 +207,8 @@ pressure       1
 timestamp      0
 ✅ No missing values found!
 ```
+<img width="1920" height="527" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/5a762176-5bd9-45ed-8b5b-d1c1d247fe13" />
+<img width="1920" height="839" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/9f69f562-093d-41e8-a456-6d3eb15c0a82" />
 
 ## 🔧 Troubleshooting
 
